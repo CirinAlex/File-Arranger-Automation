@@ -3,4 +3,4 @@ File-Arranger-Automation is an automation program that copies the downloaded fil
 
 The program searches for new files in the **Downloads** directory. Once it finds a new file, it copies the file to a suitable directory by examining the extention of the file.
 
-NB: Run this program as a **Windows Service** to automatically do the task.
+NB: Run this program as a **Windows Service** to automate the task.
